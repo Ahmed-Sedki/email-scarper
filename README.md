@@ -1,5 +1,3 @@
-Sure, here is a basic README file for your email scraper script:
-
 ---
 # Email Scraper
 
